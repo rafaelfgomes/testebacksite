@@ -187,7 +187,7 @@
 
         echo '<div class="row pb-3">';
         echo '  <div class="col-4">';
-        echo '    <img src="images/' . $popularNews[2]->news_image . '" alt="Imagem Noticia" width="80" height="120">';
+        echo '    <img src="../images/' . $popularNews[2]->news_image . '" alt="Imagem Noticia" width="80" height="120">';
         echo '  </div>';
 
         echo '  <div class="col-8">';
